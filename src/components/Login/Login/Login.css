@@ -1,0 +1,22 @@
+.pill-button {
+    background-color: white;
+    border: 1px solid lightgrey;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    width: 400px;
+  }
+  .pill-button img {
+      width: 32px;
+      height: 32px;
+  }
+  .login-box {
+      width: 500px;
+      height: 400px;
+      border: 1px solid lightgrey;
+      margin: auto;
+  }
